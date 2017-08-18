@@ -44,6 +44,7 @@ def cthulhu_room():
     print("He, it, whatevere stares at you are you go insane.")
     print("Do you flee for your life or eat your head?")
 
+
     choice = input("> ")
 
     if "flee" in choice:
@@ -71,3 +72,7 @@ def start():
         dead("You stumble around the room untilyou starve.")
 
 start()
+
+
+
+#this file is added to git for the practice 
